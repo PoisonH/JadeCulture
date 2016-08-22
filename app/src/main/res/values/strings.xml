@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">玉文化</string>
+    <string name="scanscode_btn_txt_admin_login">管理员登录</string>
+    <string name="scancode_btn_txt_user_login">普通用户登录</string>
+</resources>
